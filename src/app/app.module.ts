@@ -10,7 +10,8 @@ import { ClockComponent } from './clock/clock.component';
     ClockComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    
   ],
   providers: [],
   bootstrap: [AppComponent]
